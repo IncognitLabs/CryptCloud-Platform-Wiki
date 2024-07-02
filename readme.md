@@ -5,8 +5,16 @@
 
 ---
 
-![Static Badge](https://img.shields.io/badge/built_with-foam)
+## Docs
+![Static Badge](https://img.shields.io/badge/built_with-foambubble)
+
+## Project
 [![pdm-managed](https://img.shields.io/badge/pdm-managed-blueviolet)](https://pdm-project.org)
+
+## Community
+![Matrix](https://img.shields.io/matrix/cryptcloud%3Amatrix.org?server_fqdn=matrix.org&style=flat&logo=matrix)
+
+
 
 ---
 **👋 Welcome to the CryptHub Knowledge Base!**
