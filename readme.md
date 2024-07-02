@@ -1,7 +1,14 @@
 <img src="attachments/logo-color.png" width=100 align="left">
 
-# Foam
+# CryptCloud Platform Documentation & Wiki
+## Built with [Foam](https://github.com/foambubble)
 
+---
+
+![Static Badge](https://img.shields.io/badge/built_with-foam)
+[![pdm-managed](https://img.shields.io/badge/pdm-managed-blueviolet)](https://pdm-project.org)
+
+---
 **👋 Welcome to the CryptHub Knowledge Base!**
 
 ## Getting started
@@ -13,10 +20,3 @@
 - [getting-started](./getting-started.md) - learn how to use your Foam workspace
 - [todo](./todo.md) - a place to keep track of things to do
 
-In the `docs` directory you can find everything you need to learn the basics of Foam.
-
-## Submitting Issues
-
-As you may have noticed, issues are disabled. With the goal to keep the project fairly easy to maintain, please file your issues in the main Foam repository:
-
-> <https://github.com/foambubble/foam>
