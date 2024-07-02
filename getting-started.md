@@ -1,1 +1,2 @@
-# Getting Started with CryptHub
+# Getting Started with CryptCloud Platform
+
