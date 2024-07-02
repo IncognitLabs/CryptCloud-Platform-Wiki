@@ -3,13 +3,18 @@
 ## Overview of CryptHub
 ---
 
-### What is CryptCloud?
+### What is [[cryptcloud]]?
 [CryptCloud](https://github.com/IncognitLabs/CryptCloud-Platform) is a management system for handling multiple instances of the [CryptHub Platform](https://github.com/IncognitLabs/CryptHub).
 [CryptCloud](https://github.com/IncognitLabs/CryptCloud-Platform) developed by [IncognitLabs](https://github.com/IncognitLabs)
 
 > See also [[frequently-asked-questions]].
 
-## Getting Started with CryptCloud
+## Getting Started with [[cryptcloud]]
+---
+
+### [[CryptHub]]
+
+## Deployment
 ---
 
 ### Multi Node Deployment
